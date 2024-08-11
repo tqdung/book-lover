@@ -1,0 +1,21 @@
+{
+  "name": "book-lovers",
+  "version": "0.0.1",
+  "description": "fullstack app with NestJS and NextJS",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tqdung/book-lovers.git"
+  },
+  "author": "tqdungit97@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqdung/book-lovers/issues"
+  },
+  "homepage": "https://github.com/tqdung/book-lovers#readme",
+  "devDependencies": {
+    "husky": "^9.1.4"
+  }
+}
